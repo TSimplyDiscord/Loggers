@@ -8,7 +8,7 @@ This folder contains Loggers with different pino configurations and transports.
 
 ### Logging to console and a Discord webhook.
 
-1) Download [`PinoLoggerDiscord.ts`](./PinoLoggerDiscord.ts) ([DownGit](https://downgit.cvbox.org/DownGit/#/home?url=https://github.com/TSimplyDiscord/Loggers/blob/main/loggers/pino/PinoLoggerDiscord.ts)).
+1) Download [`PinoLoggerDiscord.ts`](./PinoLoggerDiscord.ts) ([DownGit](https://downgit.cvbox.org/#/home?url=https://github.com/TSimplyDiscord/Loggers/blob/main/loggers/pino/PinoLoggerDiscord.ts)). 
 1) Move `PinoLoggerDiscord.ts` to `src/lib/Logger/`.
 1) Install required dependencies:
     ```terminal
